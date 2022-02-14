@@ -31,8 +31,8 @@
 ### How to use 
 
 - For 'backend' 
-  : type npm install in the terminal, then enter node server.js to run the server. 
+  : type **npm install** in the terminal, then enter **node server.js** to run the server. 
   
 - For 'front-end app'
-  : type npm install in the terminal, then enter npm start to run the app. 
+  : type **npm install** in the terminal, then enter **npm start** to run the app. 
 

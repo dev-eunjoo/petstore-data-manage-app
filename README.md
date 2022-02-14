@@ -1,5 +1,7 @@
 # Pet store Data Manage App
 
+![](petstore-data-manage.gif)
+
 ### About
 
 - This application is designed to manage the Pet datas in the Pet store. Users can create, read, update, and delete (CRUD) data in the app. 

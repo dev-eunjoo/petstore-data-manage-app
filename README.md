@@ -24,7 +24,7 @@
   }
 
 **2. Searching the pet using keyword** <br />
-  - display the browser with data which include keyword. (Keyword is insensitive string) <br />
+  - display the data which include keyword. (Keyword is a insensitive string) <br />
 
 <hr/>
 

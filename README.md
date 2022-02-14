@@ -1,4 +1,4 @@
-# Pet store Data Manage App
+# Pet Data Manage App
 
 <img src="intro.gif" >
 

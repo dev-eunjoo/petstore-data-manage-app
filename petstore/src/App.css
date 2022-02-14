@@ -1,0 +1,56 @@
+/* "StAuth10244: I Eunjoo Na, 000811369 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else."  */
+
+/* Eunjoo Na, 000811369
+ * Date: 2021.12.10
+ * Description: app.css for the application. 
+ */
+body {
+  font-family: "Noto Sans KR", sans-serif;
+  width: 100%;
+  background-color: aliceblue;
+}
+
+#header {
+  position: relative;
+  height: 150px;
+  background-color: #1976d2;
+}
+
+#info {
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+}
+
+#info h1 {
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+
+#main {
+  margin: 0 5%;
+}
+
+h2 {
+  font-size: 25px;
+  margin-top: 30px;
+  color: #1976d2;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+body,
+button {
+  font-size: 20px;
+}
+
+#editBtn,
+#cancleBtn {
+  display: none;
+  margin-left: 10px;
+}

@@ -1,6 +1,6 @@
 # Pet store Data Manage App
 
-![](petstore-data-manage.gif)
+<img src="petstore-data-manage.gif" width="50%" height="50%">
 
 ### About
 
